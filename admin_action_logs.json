@@ -1,0 +1,182 @@
+[
+  {
+    "ts": 1779337198.6240883,
+    "dt": "21.05.2026 04:19:58",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "revoke_role",
+    "target_id": 1742830935,
+    "details": "Antitop"
+  },
+  {
+    "ts": 1779337201.5100706,
+    "dt": "21.05.2026 04:20:01",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "revoke_role",
+    "target_id": 1354081011,
+    "details": "13"
+  },
+  {
+    "ts": 1779337204.2013044,
+    "dt": "21.05.2026 04:20:04",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "revoke_role",
+    "target_id": 6367776690,
+    "details": "Diksif"
+  },
+  {
+    "ts": 1779337291.3036623,
+    "dt": "21.05.2026 04:21:31",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "revoke_role",
+    "target_id": 5037541665,
+    "details": "свастон"
+  },
+  {
+    "ts": 1779337325.727727,
+    "dt": "21.05.2026 04:22:05",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "grant_role",
+    "target_id": 6367776690,
+    "details": "Diksif → designer"
+  },
+  {
+    "ts": 1779337361.8217218,
+    "dt": "21.05.2026 04:22:41",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "grant_role",
+    "target_id": 1354081011,
+    "details": "13 → zam_ld"
+  },
+  {
+    "ts": 1779337372.4699821,
+    "dt": "21.05.2026 04:22:52",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "grant_role",
+    "target_id": 1742830935,
+    "details": "Antitop → tech_admin"
+  },
+  {
+    "ts": 1779337463.3465557,
+    "dt": "21.05.2026 04:24:23",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "grant_role",
+    "target_id": 6992993798,
+    "details": "я → designer"
+  },
+  {
+    "ts": 1779337799.0556364,
+    "dt": "21.05.2026 04:29:59",
+    "admin_id": 1354081011,
+    "admin_name": "13",
+    "action": "give_currency",
+    "target_id": 2044921962,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779465611.0067255,
+    "dt": "22.05.2026 16:00:11",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_currency",
+    "target_id": 5919212447,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779472208.4247675,
+    "dt": "22.05.2026 17:50:08",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_currency",
+    "target_id": 5919212447,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779472231.9886723,
+    "dt": "22.05.2026 17:50:31",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_dc",
+    "target_id": 5919212447,
+    "details": "+9000 DC"
+  },
+  {
+    "ts": 1779472611.8020139,
+    "dt": "22.05.2026 17:56:51",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_currency",
+    "target_id": 5919212447,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779472971.2436025,
+    "dt": "22.05.2026 18:02:51",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_currency",
+    "target_id": 5919212447,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779472981.7452035,
+    "dt": "22.05.2026 18:03:01",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_currency",
+    "target_id": 5919212447,
+    "details": "+1.000.000$"
+  },
+  {
+    "ts": 1779624285.7816672,
+    "dt": "24.05.2026 12:04:45",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_biz",
+    "target_id": 5919212447,
+    "details": "Ларек"
+  },
+  {
+    "ts": 1779624367.8535793,
+    "dt": "24.05.2026 12:06:07",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_kaznu",
+    "target_id": 5919212447,
+    "details": "КазНУ"
+  },
+  {
+    "ts": 1779624392.296574,
+    "dt": "24.05.2026 12:06:32",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_clan_level",
+    "target_id": 5919212447,
+    "details": "клан лвл 1 → 3"
+  },
+  {
+    "ts": 1779624594.2347512,
+    "dt": "24.05.2026 12:09:54",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_clan_level",
+    "target_id": 5919212447,
+    "details": "клан лвл 1 → 25"
+  },
+  {
+    "ts": 1779624683.331486,
+    "dt": "24.05.2026 12:11:23",
+    "admin_id": 5919212447,
+    "admin_name": "aaalis4",
+    "action": "give_car",
+    "target_id": 5919212447,
+    "details": "🚗 Bugatti Chiron"
+  }
+]

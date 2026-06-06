@@ -1,0 +1,19 @@
+{
+  "1": {
+    "creator_id": 5919212447,
+    "type": "money",
+    "amount": 10000000,
+    "winners_count": 10,
+    "end_time": 1779247572,
+    "criteria": {
+      "min_level": 2,
+      "channel": "@Blacklinenews"
+    },
+    "participants": [
+      6367776690
+    ],
+    "status": "finished",
+    "chat_id": -1003976236608,
+    "message_id": 11453
+  }
+}

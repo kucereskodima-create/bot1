@@ -1,0 +1,223 @@
+{
+  "bc57764a": {
+    "id": "bc57764a",
+    "num_id": 2,
+    "name": "Aura",
+    "icon": "🦅",
+    "owner_id": 1354081011,
+    "members": {
+      "1354081011": "owner"
+    },
+    "created_at": 1779335682,
+    "treasury": 0,
+    "level": 3,
+    "rating": 0,
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390205,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243856,
+        "energycores": 249.39918855877931,
+        "uranium": 120.39960826975559
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    },
+    "season_points": 4,
+    "wins": 0,
+    "losses": 0,
+    "raid_cooldown": 0,
+    "logs": [
+      "[24.05 12:07] 🚪 Вышел WVW",
+      "[22.05 16:20] ➕ Вступил WVW",
+      "[22.05 16:19] 🚪 Вышел WVW",
+      "[22.05 16:00] ➕ Вступил WVW"
+    ],
+    "warehouse": {
+      "iron": 5300.046111111112,
+      "diamonds": 264.98305555555555,
+      "gold": 1104.1780555555558,
+      "coal": 3342.0861111111108,
+      "last_mine": 1779624448
+    },
+    "bound_chat_id": null
+  },
+  "094562c1": {
+    "id": "094562c1",
+    "num_id": 3,
+    "name": "ECSTASY",
+    "icon": "🐉",
+    "owner_id": 6367776690,
+    "members": {
+      "6367776690": "owner",
+      "5589298222": "deputy"
+    },
+    "created_at": 1779337063,
+    "treasury": 358542,
+    "level": 1,
+    "rating": 0,
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390206,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243854,
+        "energycores": 249.3991885587792,
+        "uranium": 120.39960826975545
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    },
+    "season_points": 0,
+    "wins": 0,
+    "losses": 0,
+    "raid_cooldown": 0,
+    "logs": [
+      "[22.05 17:40] 💰 Продана руда на 358 тыс$ (Diksif)",
+      "[22.05 17:39] ⚔ Запущен рейд против Aura",
+      "[22.05 16:25] 🎖 Emir повышен до ⭐ Заместитель",
+      "[22.05 16:24] 🎖 Emir понижен до 🛡 Офицер",
+      "[22.05 16:24] 🎖 Emir понижен до 🛡 Офицер",
+      "[22.05 16:24] 🎖 Emir понижен до 🛡 Офицер",
+      "[22.05 16:24] 🎖 Emir повышен до 🛡 Офицер"
+    ],
+    "warehouse": {
+      "iron": 3.566666666666667,
+      "diamonds": 0.17833333333333332,
+      "gold": 0.7430555555555556,
+      "coal": 7.430555555555555,
+      "last_mine": 1779471711
+    },
+    "bound_chat_id": null
+  },
+  "_season": {
+    "number": 1,
+    "start_ts": 1779465471,
+    "end_ts": 1779667200,
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390205,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243854,
+        "energycores": 249.39918855877917,
+        "uranium": 120.39960826975545
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    }
+  },
+  "_market": {
+    "iron": 444,
+    "diamonds": 9131,
+    "gold": 2754,
+    "coal": 134,
+    "last_update": 1779465471,
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390205,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243854,
+        "energycores": 249.39918855877917,
+        "uranium": 120.39960826975545
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    }
+  },
+  "34d88760": {
+    "id": "34d88760",
+    "num_id": 1,
+    "name": "Antitop",
+    "icon": "🌑",
+    "owner_id": 1742830935,
+    "members": {
+      "1742830935": "owner"
+    },
+    "created_at": 1779624453,
+    "treasury": 52368,
+    "level": 1,
+    "rating": 0,
+    "season_points": 0,
+    "wins": 0,
+    "losses": 0,
+    "raid_cooldown": 0,
+    "logs": [
+      "[24.05 12:22] 💰 Продана руда на 52.4 тыс$ (Antitop)",
+      "[24.05 12:07] 🎉 Клан основан игроком Antitop"
+    ],
+    "warehouse": {
+      "iron": 0,
+      "diamonds": 0,
+      "gold": 0,
+      "coal": 0,
+      "last_mine": 1779625349
+    },
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390205,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243855,
+        "energycores": 249.39918855877923,
+        "uranium": 120.39960826975548
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    },
+    "bound_chat_id": null
+  },
+  "7ec4ea4f": {
+    "id": "7ec4ea4f",
+    "num_id": 4,
+    "name": "Admins",
+    "icon": "🔱",
+    "owner_id": 5919212447,
+    "members": {
+      "5919212447": "owner",
+      "8263574739": "officer"
+    },
+    "created_at": 1779624461,
+    "treasury": 38369589,
+    "level": 25,
+    "rating": 361937,
+    "season_points": 2,
+    "wins": 0,
+    "losses": 0,
+    "raid_cooldown": 0,
+    "logs": [
+      "[24.05 12:27] 🎖 бэбл_лав понижен до 🛡 Офицер",
+      "[24.05 12:27] 🎖 бэбл_лав повышен до 🛡 Офицер",
+      "[24.05 12:11] ➕ Вступил бэбл_лав",
+      "[24.05 12:07] 🎉 Клан основан игроком WVW"
+    ],
+    "warehouse": {
+      "iron": 221.75555555555553,
+      "diamonds": 11.087777777777779,
+      "gold": 46.262499999999996,
+      "coal": 462.625,
+      "last_mine": 1779625862
+    },
+    "complex": {
+      "level": 1,
+      "resources": {
+        "diamonds": 716.6643349390205,
+        "gold": 2407.9921653951087,
+        "titan": 888.6637753243854,
+        "energycores": 249.39918855877923,
+        "uranium": 120.39960826975548
+      },
+      "last_update": 1779644065,
+      "upgrade_fund": 0,
+      "investors": {}
+    },
+    "bound_chat_id": -1003952950486
+  }
+}
